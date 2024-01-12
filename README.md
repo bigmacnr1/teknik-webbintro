@@ -1,3 +1,14 @@
 # teknik-webbintro
 
-Jag har valt Material icon theme
+Jag har valt Material icon theme 
+
+
+
+
+
+## lektion 1, webbintro, den 12/1
+
+* idag har jag lärt mig att använda vsc 
+* vad git-hub är för något
+* Hur man använder git bash
+
